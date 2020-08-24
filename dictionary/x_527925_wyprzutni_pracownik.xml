@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="pracownik" max_length="40" name="x_527925_wyprzutni_pracownik" type="collection">
+        <element label="ID miejsca zatrudnienia" max_length="40" name="id_miejsca_zatrudnienia" type="string"/>
+        <element label="ID pracownika" max_length="40" name="id_pracownika" type="integer"/>
+        <element label="imie i nazwisko" max_length="40" name="imie_i_nazwisko" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="pensja" max_length="40" name="pensja" type="integer"/>
+        <element choice="1" label="Stanowsko" max_length="40" name="stanowsko" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Stażysta" sequence="0" value="stażysta"/>
+                <element inactive_on_update="false" label="Młodszy specjalista" sequence="1" value="młodszy specjalista"/>
+                <element inactive_on_update="false" label="Kierownik" sequence="2" value="kierownik"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="telefon" max_length="40" name="telefon" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 20:17:18</sys_created_on>
+        <sys_id>74af07c62fba10100fc93c96f699b688</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_527925_wyprzutni_pracownik.x_527925_wyprzutni.pracownik_user</sys_name>
+        <sys_package display_value="WypRzutnikow" source="x_527925_wyprzutni">dd748bce2f7a10100fc93c96f699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WypRzutnikow">dd748bce2f7a10100fc93c96f699b6f9</sys_scope>
+        <sys_security_acl display_value="x_527925_wyprzutni_pracownik">b8af07c62fba10100fc93c96f699b685</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_74af07c62fba10100fc93c96f699b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 20:17:18</sys_updated_on>
+        <sys_user_role display_value="x_527925_wyprzutni.pracownik_user" name="x_527925_wyprzutni.pracownik_user">50af0b862fba10100fc93c96f699b626</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

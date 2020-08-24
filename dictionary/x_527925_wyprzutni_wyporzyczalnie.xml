@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="sklepy" max_length="40" name="x_527925_wyprzutni_wyporzyczalnie" type="collection">
+        <element label="adres" max_length="40" name="adres" type="string"/>
+        <element label="czynsz" max_length="40" name="czynsz" type="integer"/>
+        <element label="ID miejsca" max_length="40" name="id_miejsca" type="integer"/>
+        <element label="nazwa" max_length="40" name="nazwa" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
