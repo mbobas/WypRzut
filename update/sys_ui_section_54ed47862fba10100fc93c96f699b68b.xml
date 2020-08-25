@@ -1,142 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="54ed47862fba10100fc93c96f699b68b" sys_domain="global" table="x_527925_wyprzutni_klient" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>id_klient</element>
+            <element>imie_i_nazwisko</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>926e4b862fba10100fc93c96f699b6cc</sys_id>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>1534655e2f7e10100fc93c96f699b64e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>firma</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>9934655e2f7e10100fc93c96f699b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ulica</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>166e4b862fba10100fc93c96f699b6cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>imie_i_nazwisko</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>966e4b862fba10100fc93c96f699b6cc</sys_id>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>1d34655e2f7e10100fc93c96f699b64e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pesel_nip</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>1a6e4b862fba10100fc93c96f699b6cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>9a6e4b862fba10100fc93c96f699b6cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>firma</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>1e6e4b862fba10100fc93c96f699b6cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>nr_domu_mieszkania</element>
-            <position>6</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>9e6e4b862fba10100fc93c96f699b6cc</sys_id>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>9d34655e2f7e10100fc93c96f699b64e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>telefon</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>126e4b862fba10100fc93c96f699b6cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>miasto</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>926e4b862fba10100fc93c96f699b6cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>kod_poczt</element>
-            <position>9</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:11:58</sys_created_on>
-            <sys_id>166e4b862fba10100fc93c96f699b6cd</sys_id>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>1134655e2f7e10100fc93c96f699b64f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:11:58</sys_updated_on>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>miasto</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>a134655e2f7e10100fc93c96f699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>2534655e2f7e10100fc93c96f699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>telefon</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>a534655e2f7e10100fc93c96f699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pesel_nip</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 07:06:26</sys_created_on>
+            <sys_id>2934655e2f7e10100fc93c96f699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_klient" sys_domain="global" view="Default view">54ed47862fba10100fc93c96f699b68b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 07:06:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

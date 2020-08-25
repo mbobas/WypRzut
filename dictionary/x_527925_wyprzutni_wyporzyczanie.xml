@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="live_feed=true" label="wypozyczanie" max_length="40" name="x_527925_wyprzutni_wyporzyczanie" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID klienta" max_length="32" name="id_klienta" reference="x_527925_wyprzutni_klient" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID miejsca oddania" max_length="32" name="id_miejsca_oddania" reference="x_527925_wyprzutni_wyporzyczalnie" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID miejsca wyp" max_length="32" name="id_miejsca_wyp" reference="x_527925_wyprzutni_wyporzyczalnie" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID prac oddania" max_length="32" name="id_prac_oddania" reference="x_527925_wyprzutni_pracownik" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID prac wyp" max_length="32" name="id_prac_wyp" reference="x_527925_wyprzutni_pracownik" type="reference"/>
         <element label="ID wyp rzutnika" mandatory="true" max_length="32" name="id_wyp_rzutnika" reference="x_527925_wyprzutni_rzutnik" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" label="data_wyp" max_length="40" name="u_glide_date_1" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="data_wyp" mandatory="true" max_length="40" name="u_glide_date_10" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="data_oddania" max_length="40" name="u_glide_date_2" type="glide_date"/>
-        <element label="data_oddania" max_length="40" name="u_glide_duration_11" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="przewidywana_data_oddania" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="faktyczna_data_oddania" max_length="40" name="u_glide_date_3" type="glide_date"/>
         <element label="id_rzutnika" mandatory="true" max_length="40" name="u_integer_1" type="integer"/>
         <element label="kaucja" max_length="40" name="u_integer_12" type="integer"/>
-        <element label="cena" mandatory="true" max_length="40" name="u_integer_13" type="integer"/>
-        <element label="id_wyporzyczenia" mandatory="true" max_length="40" name="u_integer_3" type="integer"/>
-        <element label="id_klient" mandatory="true" max_length="40" name="u_integer_4" type="integer"/>
-        <element label="id_pracow_wyp" mandatory="true" max_length="40" name="u_integer_5" type="integer"/>
-        <element label="id_prac_odd" max_length="40" name="u_integer_6" type="integer"/>
-        <element label="id_miejsca_wyp" max_length="40" name="u_integer_7" type="integer"/>
-        <element label="id_miejsc_odd" max_length="40" name="u_integer_8" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="2" label="cena" mandatory="true" max_length="40" name="u_integer_13" type="integer">
+            <choice/>
+        </element>
         <index name="index">
-            <element name="id_wyp_rzutnika"/>
+            <element name="id_klienta"/>
         </index>
         <index name="index2">
+            <element name="id_wyp_rzutnika"/>
+        </index>
+        <index name="index3">
+            <element name="id_prac_oddania"/>
+        </index>
+        <index name="index4">
+            <element name="id_miejsca_wyp"/>
+        </index>
+        <index name="index5">
+            <element name="id_prac_wyp"/>
+        </index>
+        <index name="index6">
+            <element name="id_miejsca_oddania"/>
+        </index>
+        <index name="index7">
             <element name="sys_class_name"/>
         </index>
     </element>

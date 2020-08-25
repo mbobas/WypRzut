@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="live_feed=true" label="klient" max_length="40" name="x_527925_wyprzutni_klient" type="collection">
         <element label="Firma" max_length="40" name="firma" type="string"/>
-        <element label="ID klient" max_length="40" name="id_klient" type="integer"/>
         <element label="imie i nazwisko" max_length="40" name="imie_i_nazwisko" type="string"/>
         <element label="kod poczt." max_length="40" name="kod_poczt" type="string"/>
         <element label="miasto" max_length="40" name="miasto" type="string"/>

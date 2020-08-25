@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="stanowsko" table="x_527925_wyprzutni_pracownik" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_1" table="x_527925_wyprzutni_rzutnik" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>stanowsko</element>
+            <element>u_string_1</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Stażysta</label>
+            <label>Xiaomi</label>
             <language>en</language>
-            <name>x_527925_wyprzutni_pracownik</name>
+            <name>x_527925_wyprzutni_rzutnik</name>
             <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:19:22</sys_created_on>
+            <sys_created_on>2020-08-25 07:10:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3e101bc62fba10100fc93c96f699b6c4</sys_id>
+            <sys_id>0515e95e2f7e10100fc93c96f699b64e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:19:22</sys_updated_on>
-            <value>stażysta</value>
+            <sys_updated_on>2020-08-25 07:10:14</sys_updated_on>
+            <value>xiaomi</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>stanowsko</element>
+            <element>u_string_1</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Młodszy specjalista</label>
+            <label>Epson</label>
             <language>en</language>
-            <name>x_527925_wyprzutni_pracownik</name>
+            <name>x_527925_wyprzutni_rzutnik</name>
             <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:19:22</sys_created_on>
+            <sys_created_on>2020-08-25 07:10:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>be101bc62fba10100fc93c96f699b6c5</sys_id>
+            <sys_id>4515e95e2f7e10100fc93c96f699b64f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:19:22</sys_updated_on>
-            <value>młodszy specjalista</value>
+            <sys_updated_on>2020-08-25 07:10:14</sys_updated_on>
+            <value>epson</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>stanowsko</element>
+            <element>u_string_1</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Kierownik</label>
+            <label>Benq</label>
             <language>en</language>
-            <name>x_527925_wyprzutni_pracownik</name>
+            <name>x_527925_wyprzutni_rzutnik</name>
             <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:19:22</sys_created_on>
+            <sys_created_on>2020-08-25 07:10:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3e101bc62fba10100fc93c96f699b6c6</sys_id>
+            <sys_id>0915e95e2f7e10100fc93c96f699b675</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:19:22</sys_updated_on>
-            <value>kierownik</value>
+            <sys_updated_on>2020-08-25 07:10:14</sys_updated_on>
+            <value>benq</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>stanowsko</element>
-            <name>x_527925_wyprzutni_pracownik</name>
+            <element>u_string_1</element>
+            <name>x_527925_wyprzutni_rzutnik</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:19:22</sys_created_on>
-            <sys_id>3b95b1562fbe10100fc93c96f699b617</sys_id>
+            <sys_created_on>2020-08-25 07:10:14</sys_created_on>
+            <sys_id>d1f579962fbe10100fc93c96f699b631</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>stanowsko</sys_name>
+            <sys_name>u_string_1</sys_name>
             <sys_package display_value="WypRzutnikow" source="x_527925_wyprzutni">dd748bce2f7a10100fc93c96f699b6f9</sys_package>
             <sys_policy/>
             <sys_scope display_value="WypRzutnikow">dd748bce2f7a10100fc93c96f699b6f9</sys_scope>
-            <sys_update_name>sys_choice_x_527925_wyprzutni_pracownik_stanowsko</sys_update_name>
+            <sys_update_name>sys_choice_x_527925_wyprzutni_rzutnik_u_string_1</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:19:22</sys_updated_on>
+            <sys_updated_on>2020-08-25 07:10:14</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

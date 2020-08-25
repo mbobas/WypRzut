@@ -1,156 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="c8054f422fba10100fc93c96f699b61d" sys_domain="global" table="x_527925_wyprzutni_wyporzyczanie" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_3</element>
+            <element>id_klienta</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>380c87462fba10100fc93c96f699b6d3</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>d53439d22fbe10100fc93c96f699b6c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>id_wyp_rzutnika</element>
+            <element>id_prac_wyp</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>b80c87462fba10100fc93c96f699b6d3</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>593439d22fbe10100fc93c96f699b6c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_4</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>3c0c87462fba10100fc93c96f699b6d3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_5</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>bc0c87462fba10100fc93c96f699b6d3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_6</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>300c87462fba10100fc93c96f699b6d4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_7</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>b00c87462fba10100fc93c96f699b6d4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_8</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>340c87462fba10100fc93c96f699b6d4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_1</element>
-            <position>7</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>b40c87462fba10100fc93c96f699b6d4</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>d93439d22fbe10100fc93c96f699b6c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_2</element>
-            <position>8</position>
+            <element>id_miejsca_wyp</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>380c87462fba10100fc93c96f699b6d4</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>5d3439d22fbe10100fc93c96f699b6c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id_wyp_rzutnika</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>dd3439d22fbe10100fc93c96f699b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_integer_12</element>
-            <position>9</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>b80c87462fba10100fc93c96f699b6d4</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>513439d22fbe10100fc93c96f699b6c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_integer_13</element>
-            <position>10</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-24 20:01:29</sys_created_on>
-            <sys_id>3c0c87462fba10100fc93c96f699b6d4</sys_id>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>d13439d22fbe10100fc93c96f699b6c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-24 20:01:29</sys_updated_on>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>553439d22fbe10100fc93c96f699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id_miejsca_oddania</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>d53439d22fbe10100fc93c96f699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id_prac_oddania</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>593439d22fbe10100fc93c96f699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_3</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 08:16:20</sys_created_on>
+            <sys_id>d93439d22fbe10100fc93c96f699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_527925_wyprzutni_wyporzyczanie" sys_domain="global" view="Default view">c8054f422fba10100fc93c96f699b61d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 08:16:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

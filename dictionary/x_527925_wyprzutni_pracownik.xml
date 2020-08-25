@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="live_feed=true" label="pracownik" max_length="40" name="x_527925_wyprzutni_pracownik" type="collection">
-        <element label="ID miejsca zatrudnienia" max_length="40" name="id_miejsca_zatrudnienia" type="string"/>
-        <element label="ID pracownika" max_length="40" name="id_pracownika" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ID miejsca zatrudnienia" max_length="40" name="id_miejsca_zatrudnienia" reference="x_527925_wyprzutni_wyporzyczalnie" type="reference"/>
         <element label="imie i nazwisko" max_length="40" name="imie_i_nazwisko" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="pensja" max_length="40" name="pensja" type="integer"/>

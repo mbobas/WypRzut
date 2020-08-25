@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="pracownik">64af07c62fba10100fc93c96f699b661</application>
+        <application display_value="WypozyczalniaRzutnikow">2d9647822fba10100fc93c96f699b655</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a4af07c62fba10100fc93c96f699b663</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>pracowniks</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Pracownicy</sys_name>
         <sys_overrides/>
         <sys_package display_value="WypRzutnikow" source="x_527925_wyprzutni">dd748bce2f7a10100fc93c96f699b6f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="WypRzutnikow">dd748bce2f7a10100fc93c96f699b6f9</sys_scope>
         <sys_update_name>sys_app_module_a4af07c62fba10100fc93c96f699b663</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-24 20:17:18</sys_updated_on>
+        <sys_updated_on>2020-08-24 21:07:56</sys_updated_on>
         <timeline_page/>
-        <title>pracowniks</title>
+        <title>Pracownicy</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
